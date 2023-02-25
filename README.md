@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kaanozbudak
-- 👀 I’m interested in data engineering
+- 👀 I’m sr cloud data engineer
 
 <!---
 kaanozbudak/kaanozbudak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
